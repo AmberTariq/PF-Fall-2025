@@ -10,6 +10,6 @@ int main()
 		sum=sum+1.0/d;
 		d=d+4;	
 	}
-	 printf("Sum= %.3f\n",sum);
+	 printf("Sum= %.4f\n",sum);
 	return 0;
 }
